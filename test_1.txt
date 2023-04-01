@@ -1,0 +1,6 @@
+GitHub
+test_1
+
+git remote add origin https://github.com/sergiybulba/Test_1.git
+
+git push -u origin main
